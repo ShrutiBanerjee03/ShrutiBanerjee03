@@ -1,4 +1,5 @@
-package ThreeBasicTreeTraversal;
+package BinaryTreeHeightBalanced;
+
 
 public class BinaryTreeNode<T> {
 	public T data;
@@ -12,7 +13,6 @@ public class BinaryTreeNode<T> {
 		this.data=data;
 		this.left=left;
 		this.right=right;
-
-	}
+}
 
 }
